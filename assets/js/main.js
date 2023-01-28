@@ -18,7 +18,7 @@ if(navClose){
     })
 }
 
-/*=============== REMOVE MENU MOBILE ===============*/
+/*=============== REMOVE MENU MOB ===============*/
 const navLink = document.querySelectorAll('.nav__link')
 
 const linkAction = () =>{
@@ -42,7 +42,7 @@ window.addEventListener('scroll', scrollHeader)
 
 
 
-/*=============== DARK LIGHT THEME ===============*/ 
+/*=============== DARK LIGHT THEME AKS ===============*/ 
 const themeButton = document.getElementById('theme-button')
 console.log(themeButton)
 
