@@ -80,7 +80,7 @@ body {
   background: linear-gradient(292deg, rgb(255, 236, 236) 0%, rgb(255, 224, 206) 28%, rgb(255, 255, 255) 65%, rgb(255, 255, 255) 76%, rgb(255, 236, 236) 100%);
   color: var(--text-color);
   /*For animation dark mode*/
-  transition: 0.7s;
+  transition: 0.4s;
 }
 
 h1,
@@ -1109,6 +1109,28 @@ background: rgba(210, 52, 13, 0.856);
   
   
 }
+
+.dark .story__container{
+  background-color: #142d49;
+  padding: 20px 30px;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+
+.dark .testimonial__container{
+  background-color: #142d49;
+  padding: 50px 50px;
+  border-radius: 10px;
+  transition: 0.4s;
+}
+
+.dark .footer__container{
+  background-color: #142d49;
+  padding: 30px 30px;
+  border-radius: 10px;
+  transform: 0.4s;
+}
+
 
 #theme-button {
   cursor: pointer;
