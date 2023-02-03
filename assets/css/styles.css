@@ -1,7 +1,7 @@
-/*=============== GOOGLE FONTS ===============*/
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 
-/*=============== VARIABLES CSS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
+
 :root {
   --header-height: 3.3rem;
 
@@ -9,15 +9,15 @@
   --first-color: hsl(0, 0%, 27%);
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 64%);
-  --title-color: rgb(201, 68, 59);
+  --title-color:#F55050;
   --text-color: hsl(0, 1%, 47%);
   --text-color-light: hsl(0, 0%, 55%);
   --body-color: hsla(0, 0%, 100%, 0.991);
   --container-color: rgb(220, 220, 220);
   --border-color: hsl(0, 0%, 44%);
 
-  /*========== Font and typography ==========*/
-  --body-font: 'Roboto', sans-serif;
+ 
+  --body-font: 'Poppins', sans-serif;
   --biggest-font-size: 2rem;
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
@@ -293,7 +293,7 @@ button {
 .home__img-bg {
 margin-top: 100px;
 border-radius: 10px;
-background: rgba(210, 52, 13, 0.856);
+background: #F55050;
 /* background: linear-gradient(117deg, rgba(255,230,224,1) 0%, rgba(225,70,31,1) 30%, rgba(245,255,235,1) 56%, rgba(255,244,244,1) 79%);; */
   display: flex;
   justify-content: center;
