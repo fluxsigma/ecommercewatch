@@ -7,3 +7,6 @@ Hello everyone ,I'm Aditya and this repositry contains a basic e-commerce SPA we
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 last update (UI) 4/feb/2023 
+
+
+live demo : https://fluxsigma.github.io/ecommercewatch/#
