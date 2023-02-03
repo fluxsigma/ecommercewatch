@@ -644,6 +644,8 @@ background: #F55050;
 
 /*=============== NEW ===============*/
 .new__card {
+  margin:auto;
+  max-width: 81%;
   margin-top: 15px;
   position: relative;
   text-align: center;
