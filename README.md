@@ -6,4 +6,4 @@ Hello everyone ,I'm Aditya and this repositry contains a basic e-commerce SPA we
 3/feb/2023
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-last update glass ui 4/feb/2023 
+last update (UI) 4/feb/2023 
