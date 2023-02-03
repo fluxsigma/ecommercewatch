@@ -335,10 +335,11 @@ background: #F55050;
 }
 
 .home__title {
+  transition: 0.6s;
   font-size: var(--biggest-font-size);
   font-weight: var(--font-bold);
   margin-bottom: var(--mb-1);
-  transition: 0.7s;
+  
 }
 
 .home__description {
