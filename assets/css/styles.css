@@ -2,6 +2,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
 
 
+
+
 :root {
   --header-height: 3.3rem;
 
@@ -10,10 +12,10 @@
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 64%);
   --title-color:#F55050;
-  --text-color: hsl(0, 1%, 47%);
-  --text-color-light: hsl(0, 0%, 55%);
+  --text-color: hsl(0deg 0% 0%);
+  --text-color-light: hsl(0deg 0% 0%);
   --body-color: hsla(0, 0%, 100%, 0.991);
-  --container-color: rgb(220, 220, 220);
+  --container-color: rgb(207 207 207);
   --border-color: hsl(0, 0%, 44%);
 
  
@@ -274,7 +276,11 @@ button {
   padding-right: 1rem;
   padding-bottom: 20px;
   border-radius: 5px;
-  background-color:#fae8e8
+
+   background-color:#381818;
+ -webkit-box-shadow: inset 47px 17px 185px 0px rgb(255 255 255);
+-moz-box-shadow: inset 47px 17px 185px 0px rgba(255,245,245,1);
+box-shadow: inset 100px 50px 185px 60px rgb(255 255 255);
 
 }
 
@@ -530,7 +536,7 @@ background: #F55050;
 }
 
 .products__price {
-  color: var(--first-color);
+  color: rgb(0 0 0);
 }
 
 .products__button {
@@ -1093,7 +1099,7 @@ background: #F55050;
 }
 
 
- .dark {--title-color: rgb(255, 255, 255);}
+ .dark {--title-color: rgb(65 179 188);}
 .dark{--text-color: rgb(194, 194, 194);}
  .dark .show-menu {
   background-color: #044896;
@@ -1106,7 +1112,7 @@ background: #F55050;
  }
 .dark .home__img-bg{
   transition: 0.7s;
-  background-color:#5ef2ff
+  background-color:#000000
   
   
 }
@@ -1139,7 +1145,7 @@ background: #F55050;
 }
 
 .yellow{
-  color:rgb(255, 213, 0);
+  color:rgb(255 227 186);
 }
 
 
