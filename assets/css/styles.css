@@ -662,6 +662,7 @@ background: #F55050;
   top: 1rem;
   right: 1rem;
   transition: .3s;
+  border-radius: 5px;
 }
 
 .new__img {
