@@ -8,7 +8,7 @@ live demo : https://fluxsigma.github.io/ecommercewatch/#
  -> last update (UI) 4/feb/2023 <br><br>
  ## /////////////////////////////////////////////////////////////////////////////////////////////////////////////////  <br><br>
  ->soon i will make a clone of this website and transform it into WebApp using REACT(library) and upload it to another repositry. <br>
- <b> currenty working</b>
+ <b> currently working on that thing</b>
 <br>
   https://github.com/fluxsigma/reacttestapp <br>
 
