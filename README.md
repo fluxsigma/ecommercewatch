@@ -1,5 +1,6 @@
-# ecommercewatch/ Hello everyone ,I'm Aditya and this repositry contains a basic e-commerce SPA website using <br>
--> Html5 , CSS3 and JavascriptE6
+# ecommercewatch/ Hello everyone ,I'm Aditya and this repositry contains a basic e-commerce SPA website using Html5 , CSS3 and Javascript<br>
+<br>
+<br>
 -> icons from Boxicons
 -> updated blueish theme (Multi-themed) <br>
 -> made some changes again on 29/1/23 <br>
