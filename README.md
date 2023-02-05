@@ -1,4 +1,4 @@
-# Hello everyone ,I'm Aditya and this repositry contains a basic e-commerce SPA website using Html5 , CSS3 and Javascript<br>
+# Hello everyone ,I'm Aditya and this repositry contains a basic e-commerce SPA website using Html5 , CSS3 and a little bit of Javascript<br>
 <br>
 <br>
 -> icons from Boxicons
