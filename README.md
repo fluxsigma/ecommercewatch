@@ -1,6 +1,7 @@
 # Hello everyone ,I'm Aditya and this repositry contains a basic e-commerce SPA website using Html5 , CSS3 and a little bit of Javascript<br>
 <br>
-//live demo : https://fluxsigma.github.io/ecommercewatch/#
+  <!-- Write your comments here      live demo : https://fluxsigma.github.io/ecommercewatch/# -->
+ 
 <br>
 -> icons from Boxicons
 -> updated blueish theme (Multi-themed) <br>
