@@ -277,10 +277,10 @@ button {
   padding-bottom: 20px;
   border-radius: 5px;
 
-   background-color:#381818;
- -webkit-box-shadow: inset 47px 17px 185px 0px rgb(255 255 255);
--moz-box-shadow: inset 47px 17px 185px 0px rgba(255,245,245,1);
-box-shadow: inset 100px 50px 185px 60px rgb(255 255 255);
+/*    background-color:#381818; */
+/*  -webkit-box-shadow: inset 47px 17px 185px 0px rgb(255 255 255); */
+/* -moz-box-shadow: inset 47px 17px 185px 0px rgba(255,245,245,1); */
+/* box-shadow: inset 100px 50px 185px 60px rgb(255 255 255); */
 
 }
 
